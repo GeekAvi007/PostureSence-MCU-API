@@ -46,8 +46,7 @@ This demo simulates real-time posture data as if it were running on a live camer
 🧪 Demo Instructions
 ▶️ Run Locally
 bash
-Copy
-Edit
+
 git clone https://github.com/GeekAvi007/PostureSence-MCU-API
 cd posturesense-demo
 pip install -r requirements.txt
