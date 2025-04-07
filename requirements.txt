@@ -1,0 +1,6 @@
+flask
+# mediapipe
+opencv-python
+numpy
+scikit-learn
+streamlit
